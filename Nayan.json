@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "SUMON_BOT",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100067185640846"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100067185640846",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100067185640846"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
